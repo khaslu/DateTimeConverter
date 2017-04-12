@@ -1,4 +1,4 @@
-# Time Converter
+# Date/Time Converter
 Exemplo de uso:
 ```java
 final Calendar calendar = Calendar.getInstance();
